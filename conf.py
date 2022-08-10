@@ -1,0 +1,2 @@
+user = "admin"
+clave = "admin"
